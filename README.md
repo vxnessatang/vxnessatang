@@ -7,7 +7,7 @@ I'm a computer science student at UNC-Chapel Hill. My passion for the field bega
 💻 I'm currently exploring AR/VR development and web development!
 
 ### I'm currently a...
-- Incoming Software Engineer @ Develop for Good (Summer 2025)
+- Software Engineer @ Develop for Good (Summer 2025)
 - Software Developer @ Carolina AR/VR
 - Undergraduate Research Engineer @ UNC Experimental Engineering Lab
 
