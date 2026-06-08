@@ -7,8 +7,7 @@ I'm a computer science student at UNC-Chapel Hill. My passion for the field bega
 💻 I'm currently exploring AR/VR development and web development!
 
 ### I'm currently a...
-- Software Engineer @ Develop for Good (Summer 2025)
-- Software Developer @ Carolina AR/VR
-- Undergraduate Research Engineer @ UNC Experimental Engineering Lab
+- Software Engineer Intern @ Fidelity Investments
+- Software Lead @ Carolina AR/VR
 
 📧 Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/vanessa-tang-349074279/) or [email](vanessatangschool@gmail.com)!
